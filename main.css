@@ -2,6 +2,7 @@ p {
 	font-size: small;
 	font-family: Georgia;
 	font-style: normal;
+	font-color: white;
 }
 
 body {
@@ -12,14 +13,14 @@ body {
 h1 {
     text-align: center;
     font-size: xx-large;
-    color: red;
+    color: blue;
     font-style: oblique;
 }
 
 h2 {
     text-align: center;
     font-size: x-large;
-    color: blue;
+    color: red;
     font-style: oblique;
 }
 
