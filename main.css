@@ -1,0 +1,39 @@
+/*Jason Lin
+IntroCS pd2 sec2
+HW05 -- Stuylin
+2021-02-10
+*/
+p{
+	font-size: small;
+	font-family: Georgia;
+	font-style: normal;
+	color: black;
+	border-style: none;
+}
+/*Determines the font properties of the text*/
+body {
+	margin: auto;
+	max-width: 900px;
+	background-color: #1FD1D9;
+}
+/*Determines the characteristics of the entire website as a whole.*/
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: red;
+    font-style: oblique;
+}
+/*Properties of heading 1*/
+h2 {
+    text-align: center;
+    font-size: x-large;
+    color: orange;
+    font-style: oblique;
+}
+/*Properties of heading 2*/
+h3 {
+	text-align: center;
+	font-size: large;
+	color: white;
+}
+/*Properties of heading 3*/
