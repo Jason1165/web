@@ -2,12 +2,13 @@ p {
 	font-size: small;
 	font-family: Georgia;
 	font-style: normal;
+	font-color: white
 }
 
 body {
 	margin: auto;
 	max-width: 900px;
-	background-color:black
+	background-color: black
 }
 
 h1 {
